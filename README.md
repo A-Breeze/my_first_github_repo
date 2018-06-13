@@ -15,3 +15,5 @@ output:
 That seems good enough for now.
 
 A line I wrote on my local computer
+
+This is a line from RStudio
