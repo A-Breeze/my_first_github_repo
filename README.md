@@ -1,3 +1,4 @@
+<!-- To view this markdown page rendered, try opening VSCode and clicking to open the "Preview" pane -->
 # my_first_github_repo
 Test repo following the tutorial instructions
 
